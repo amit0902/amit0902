@@ -1,5 +1,3 @@
-![Data Science and ML enthusiast](https://media-exp1.licdn.com/dms/image/C4E16AQHY4G4VxyC-Ag/profile-displaybackgroundimage-shrink_350_1400/0/1622829928560?e=1643846400&v=beta&t=fqMkppL-EVM_kPjNkZhNKSIhLKX8QwfS1hDWUVEYIxs)
-
 ### Hi there 👋, My name is Amit Kulkarni
 #### Data Science and ML enthusiast
 
@@ -10,7 +8,9 @@ Python / Tableau / SQL / Hadoop / ML algorithms
 
 - 🔭 I’m currently working on Cloud Machine Learning 
 - 🌱 I’m currently learning Advancements in Machine Learning Alogirthms 
-- 📫 How to reach me: 9725436486 
+- 📫 How to reach me: 
+-- Mobile: 9725436486 
+-- Email: amit.kulkarni0902@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amit0902)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amitkulkarni09//)  
