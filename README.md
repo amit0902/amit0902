@@ -7,7 +7,9 @@ I'm from Bangalore and currently interested in solving AI and ML business proble
 
 - 🔭 Interested in Cloud Machine Learning 
 - 🌱 I’m currently learning Advancements in Machine Learning Alogirthms 
-- 📫 How to reach me: 📱 9725436486 | 📩 amit.kulkarni0902@gmail.com
+- 📫 How to reach me: 
+   -  📱 9725436486
+   -  📩 amit.kulkarni0902@gmail.com
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amit0902&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit0902)](https://github.com/amit0902/github-readme-stats)
