@@ -1,4 +1,4 @@
-# Amit Kulkarni [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/amit0902)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amitkulkarni09//) ![Profile views](https://gpvc.arturio.dev/amit0902)
+# Amit Kulkarni [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/amit0902)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amitkulkarni09//)
 
 I'm from Bangalore and currently interested in solving AI and ML business problems. Previously, worked as Technical Writer at Analytics Drift, wherein I wrote content on the rising demands of Cloud based Data Analysis and Machine Learning technologies.
 
